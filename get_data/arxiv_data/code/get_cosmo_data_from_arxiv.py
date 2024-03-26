@@ -13,10 +13,12 @@ os.system("kaggle datasets download -d Cornell-University/arxiv")
 
 # %%
 
-os.system("unzip arxiv.zip -d arxiv_data")
+os.system("unzip arxiv.zip -d ../arxiv_data")
 
 # %%
 # Reference: https://www.kaggle.com/code/bachngoh/the-ultimate-guide-on-rag-w-gemma-llama-index
+
+os.system("rm arvix.zip")
 
 import json
 import pandas as pd
