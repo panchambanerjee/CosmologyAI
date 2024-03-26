@@ -18,7 +18,7 @@ os.system("unzip arxiv.zip -d ../arxiv_data")
 # %%
 # Reference: https://www.kaggle.com/code/bachngoh/the-ultimate-guide-on-rag-w-gemma-llama-index
 
-os.system("rm arvix.zip")
+os.system("rm arxiv.zip")
 
 import json
 import pandas as pd
