@@ -25,7 +25,7 @@ import pandas as pd
 
 cols = ['id', 'title', 'abstract', 'categories']
 data = []
-file_name = 'arxiv_data/arxiv-metadata-oai-snapshot.json'
+file_name = '../data/arxiv-metadata-oai-snapshot.json'
 
 
 with open(file_name, encoding='latin-1') as f:
