@@ -16,3 +16,5 @@ This repository is intended to be a collection of various Data Science, Data Ana
 * Evaluate fine-tuned LLM vs pre-trained
 * Explore Advanced RAG (Reranking etc) using both LangChain and LlamaIndex
 * Explore context evaluation using TruLens
+* Explore different fine-tuning methods, perhaps DPO if we can build a Cosmology preference dataset
+  
