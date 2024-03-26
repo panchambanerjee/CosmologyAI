@@ -3,7 +3,7 @@
 This repository is intended to be a collection of various Data Science, Data Analytics, AI and LLM-based experiments (RAG, Fine-Tuning) in the Cosmology and Extragalactic Astronomy domain
 
 ### So far:
-* Code to assemble Cosmology-related abstracts from the ArXiv dataset (Kaggle, Cornell) - Notebook to be uploaded
+* Code to assemble Cosmology-related abstracts from the ArXiv dataset (Kaggle, Cornell) - Notebook and script (get_cosmo_data_from_arxiv.*) uploaded to get_data/arxiv_data
 * Code to take the assembled dataset and build a RAG chatbot utilizing Mistral 7b, all-MiniLM-L6-v2, LangChain and ChromadB - Notebook to be uploaded
 * Using the same techstack, build a context-based retrieval search - Notebook to be uploaded
 
