@@ -1,11 +1,10 @@
 ## CosmologyAI
 
+### This repository is intended to be a collection of various Data Science, Data Analytics, AI and LLM-based experiments (RAG, Fine-Tuning) in the Cosmology and Extragalactic Astronomy domain
+
 ![nasa-hubble-space-telescope-aRrf665Cqx8-unsplash](https://github.com/panchambanerjee/CosmologyAI/assets/17071658/869ecbc1-74c4-4af2-ad28-9e066b2d1136)
 
 (The image above is a Hubble Space Telescope image of the Star Cluster NGC 2074 in the Large Magellanic Cloud)
-
-
-This repository is intended to be a collection of various Data Science, Data Analytics, AI and LLM-based experiments (RAG, Fine-Tuning) in the Cosmology and Extragalactic Astronomy domain
 
 ### So far:
 * Code to assemble Cosmology-related abstracts from the ArXiv dataset (Kaggle, Cornell) - Notebook and script (get_cosmo_data_from_arxiv.*) uploaded to **arxiv_project/code**
@@ -16,7 +15,7 @@ Chatbot Screenshot::
 
 <img width="1103" alt="Screenshot 2024-03-27 at 10 34 32 AM" src="https://github.com/panchambanerjee/CosmologyAI/assets/17071658/1af04401-2d21-4cc4-a279-78e00c11566e">
 
-  
+
 * Code to take the assembled dataset and build a RAG chatbot utilizing Mistral 7b, all-MiniLM-L6-v2, LangChain and ChromadB - Notebook to be uploaded
   
 * Using the same techstack, build a context-based retrieval search - Notebook to be uploaded
