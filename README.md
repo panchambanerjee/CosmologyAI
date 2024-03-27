@@ -1,5 +1,10 @@
 ## CosmologyAI
 
+![nasa-hubble-space-telescope-aRrf665Cqx8-unsplash](https://github.com/panchambanerjee/CosmologyAI/assets/17071658/869ecbc1-74c4-4af2-ad28-9e066b2d1136)
+
+(The image above is a Hubble Space Telescope image of the Star Cluster NGC 2074 in the Large Magellanic Cloud)
+
+
 This repository is intended to be a collection of various Data Science, Data Analytics, AI and LLM-based experiments (RAG, Fine-Tuning) in the Cosmology and Extragalactic Astronomy domain
 
 ### So far:
