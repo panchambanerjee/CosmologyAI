@@ -30,7 +30,7 @@ Screenshot of Context Retrieval (Semantic) Search results:: (For the question: "
 
 <img width="1354" alt="Screenshot 2024-03-29 at 2 02 47 PM" src="https://github.com/panchambanerjee/CosmologyAI/assets/17071658/875520d0-aba8-4116-a620-933b9c8d9df4">
 
-### Next Steps:
+### Next Steps and Ideas:
 * Use Bonito, make instruction-tuned dataset to evaluate RAG application
 * Evaluate RAG application using RAGAS
 * Explore alternative ways to evaluate RAG application
@@ -45,6 +45,7 @@ Screenshot of Context Retrieval (Semantic) Search results:: (For the question: "
 * Get the paper text and build datasets with that
 * Build full applications (RAG, Fine-tuning) based on full paper texts
 * Build Knowledge Graph RAGs
+* Auto-detect formulae from papers, convert them to LaTex, and verify the correctness
 
 ![nasa-hubble-space-telescope-V-B9vdPfJxw-unsplash](https://github.com/panchambanerjee/CosmologyAI/assets/17071658/051e789b-8989-4589-b5e0-46bafb086650)
 
