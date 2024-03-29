@@ -35,6 +35,7 @@ Screenshot::
 * Create a proper chatbot with memory
 * Get the paper text and build datasets with that
 * Build full applications (RAG, Fine-tuning) based on full paper texts
+* Build Knowledge Graph RAGs
 
 
   
