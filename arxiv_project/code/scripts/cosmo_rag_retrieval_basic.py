@@ -1,5 +1,5 @@
 # %% [markdown]
-# ### In this notebook, we build a simple RAG application using the Cosmology data that we download from the Arxiv dataset (https://github.com/panchambanerjee/CosmologyAI/tree/main/get_data/arxiv_data/code)
+# ### In this notebook, we build a simple RAG application using the Cosmology data that we download from the Arxiv dataset 
 # 
 # ### The notebook is divided into 2 parts::
 # * **Part 1**: We test out a minimal RAG chatbot (No memory) with the Context augmented LLM with several of the latest Cosmology papers from Arxiv (that are not a part of the training corpus of the model, as of March, 2024)
