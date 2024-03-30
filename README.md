@@ -46,6 +46,7 @@ Screenshot of Context Retrieval (Semantic) Search results:: (For the question: "
 * Build full applications (RAG, Fine-tuning) based on full paper texts
 * Build Knowledge Graph RAGs
 * Auto-detect formulae from papers, convert them to LaTex, and verify the correctness
+* Agents
 
 ![nasa-hubble-space-telescope-V-B9vdPfJxw-unsplash](https://github.com/panchambanerjee/CosmologyAI/assets/17071658/051e789b-8989-4589-b5e0-46bafb086650)
 
