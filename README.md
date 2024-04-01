@@ -6,7 +6,7 @@ Let's tidy up that markdown for your GitHub repo intro:
 
 ![Hubble Space Telescope image of the Star-Forming Region LH 95 in the Large Magellanic Cloud](https://github.com/panchambanerjee/CosmologyAI/assets/17071658/898bbfe5-d873-422f-8ca5-7bd4f3ff2b5c)
 
-The image above is a Hubble Space Telescope image of the Star-Forming Region LH 95 in the Large Magellanic Cloud.*
+The image above is a Hubble Space Telescope image of the Star-Forming Region LH 95 in the Large Magellanic Cloud.
 
 ### So far
 
