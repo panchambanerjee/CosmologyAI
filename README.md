@@ -5,7 +5,8 @@ Let's tidy up that markdown for your GitHub repo intro:
 **This repository is a collection of various Data Science, Data Analytics, AI, and LLM-based experiments (RAG, Fine-Tuning) in the Cosmology and Extragalactic Astronomy domain.**
 
 ![Hubble Space Telescope image of the Star-Forming Region LH 95 in the Large Magellanic Cloud](https://github.com/panchambanerjee/CosmologyAI/assets/17071658/898bbfe5-d873-422f-8ca5-7bd4f3ff2b5c)
-*The image above is a Hubble Space Telescope image of the Star-Forming Region LH 95 in the Large Magellanic Cloud.*
+
+The image above is a Hubble Space Telescope image of the Star-Forming Region LH 95 in the Large Magellanic Cloud.*
 
 ### So far
 
@@ -55,6 +56,5 @@ Let's tidy up that markdown for your GitHub repo intro:
 - Agents.
 
 ![Hubble Interacting Galaxy IRAS 18090](https://github.com/panchambanerjee/CosmologyAI/assets/17071658/051e789b-8989-4589-b5e0-46bafb086650)
-*
 
 The image above is the Hubble Interacting Galaxy IRAS 18090.*
