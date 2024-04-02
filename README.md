@@ -54,6 +54,7 @@ The image above is a Hubble Space Telescope image of the Star-Forming Region LH 
 - Build Knowledge Graph RAGs.
 - Auto-detect formulae from papers, convert them to LaTeX, and verify the correctness.
 - Agents.
+- Use AssemblyAI (Or some other tool) to summarize lectures, specifically Cosmology lectures (Leonard Susskind etc): https://www.youtube.com/watch?v=P-medYaqVak&list=PLvh0vlLitZ7c8Avsn6gUaWX05uD5cedO-&ab_channel=Stanford
 
 ![Hubble Interacting Galaxy IRAS 18090](https://github.com/panchambanerjee/CosmologyAI/assets/17071658/051e789b-8989-4589-b5e0-46bafb086650)
 
