@@ -36,6 +36,9 @@ The image above is a Hubble Space Telescope image of the Star-Forming Region LH 
 
   ![Screenshot of Questions and Answers generated](https://github.com/panchambanerjee/CosmologyAI/assets/17071658/a1a113e6-5a81-47c2-8577-6f7b7febf968)
 
+- **LangChain RAG from Scratch (https://github.com/langchain-ai/rag-from-scratch/blob/main/README.md), using ArXiv Cosmology data:**
+  - First notebook (Overview) uploaded to langchain_astro_rag
+
 ### Next Steps and Ideas
 
 - Use Bonito, make instruction-tuned dataset to evaluate RAG application.
