@@ -46,7 +46,7 @@ The image above is a Hubble Space Telescope image of the Star-Forming Region LH 
 - **Working RAG based conversatonal chatbots (with memory) using Langchain and Streamlit:**
   - Uploaded v1 and v2 of scripts to chatbots/code
 
-   ![Screenshot of v2 chatbot](https://github.com/panchambanerjee/CosmologyAI/assets/17071658/271115b8-1b4f-4ee3-b42b-7c3ddacfa23f)
+   <img width="707" alt="Screenshot 2024-04-07 at 12 45 13 PM" src="https://github.com/panchambanerjee/CosmologyAI/assets/17071658/6a8a7b31-a399-4244-bbda-41cf7ae3b39c">
 
   The above is a screenshot of the current working version of the astro_v2.. chatbot (Using Streamlit)
 
