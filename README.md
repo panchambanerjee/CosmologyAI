@@ -38,6 +38,17 @@ The image above is a Hubble Space Telescope image of the Star-Forming Region LH 
   - First notebook (Overview) uploaded to langchain_astro_rag
   - Second notebook (Multi-Query, RAG-Fusion, Decomposition, Step-back Prompting, HyDE) uploaded to langchain_astro_rag
   - Third notebook (Logical and Semantic Routing, Query Structuring for Metadata filters) uploaded to langchain_astro_rag
+ 
+- **Working RAG based conversatonal chatbots (with memory) using Langchain and Streamlit:**
+  - Uploaded v1 and v2 of scripts to chatbots/code
+
+   ![Screenshot of v2 chatbot](https://github.com/panchambanerjee/CosmologyAI/assets/17071658/271115b8-1b4f-4ee3-b42b-7c3ddacfa23f)
+
+
+### Streamlit Chatbot To-Do:
+  - Optimize load-time
+  - Add background image
+  - Make history display cleaner
 
 ### Next Steps and Ideas
 
