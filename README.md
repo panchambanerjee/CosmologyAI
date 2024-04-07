@@ -16,6 +16,8 @@ The image above is a Hubble Space Telescope image of the Star-Forming Region LH 
 
   ![Screenshot of RAG QA](https://github.com/panchambanerjee/CosmologyAI/assets/17071658/1af04401-2d21-4cc4-a279-78e00c11566e)
 
+  The above is a screenshot of the RAG QA (using Gradio)
+
 - **Create vectordb and persist it using Chroma and the Cosmology arxiv abstracts (~66k abstracts):**
   - Notebook and script (`create_cosmo_vectordb.*`) uploaded to `arxiv_project/code`.
 
@@ -28,6 +30,8 @@ The image above is a Hubble Space Telescope image of the Star-Forming Region LH 
   - Notebook and script (`create_cosmo_vectordb.*`) uploaded to `arxiv_project/code`.
 
   ![Screenshot of Context Retrieval (Semantic) Search results](https://github.com/panchambanerjee/CosmologyAI/assets/17071658/875520d0-aba8-4116-a620-933b9c8d9df4)
+
+  The above is a screenshot of the Semantic search results.
 
 - **Using Bonito, an A100 GPU on Google Colab, a Dark Matter Review paper, create an Instruction tuning QA dataset:**
   - Notebook and script (`Instruction_Dataset_Synth_bonito_Dark_Matter_Review.ipynb`) uploaded to `miscellaneous/code`. The Dataset is available on HuggingFace Hub: delayedkarma/dark_matter_instruction_qa.
@@ -43,6 +47,8 @@ The image above is a Hubble Space Telescope image of the Star-Forming Region LH 
   - Uploaded v1 and v2 of scripts to chatbots/code
 
    ![Screenshot of v2 chatbot](https://github.com/panchambanerjee/CosmologyAI/assets/17071658/271115b8-1b4f-4ee3-b42b-7c3ddacfa23f)
+
+  The above is a screenshot of the current working version of the astro_v2.. chatbot (Using Streamlit)
 
 
 ### Streamlit Chatbot To-Do:
