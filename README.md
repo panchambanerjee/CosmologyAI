@@ -29,7 +29,7 @@ The image above is a Hubble Space Telescope image of the Star-Forming Region LH 
 - **Using the same tech stack, build a context-based retrieval search:**
   - Notebook and script (`create_cosmo_vectordb.*`) uploaded to `arxiv_project/code`.
 
-  ![Screenshot of Context Retrieval (Semantic) Search results](https://github.com/panchambanerjee/CosmologyAI/assets/17071658/875520d0-aba8-4116-a620-933b9c8d9df4)
+  <img width="707" alt="Screenshot 2024-04-07 at 12 45 13 PM" src="https://github.com/panchambanerjee/CosmologyAI/assets/17071658/875520d0-aba8-4116-a620-933b9c8d9df4">
 
   The above is a screenshot of the Semantic search results.
 
