@@ -23,8 +23,10 @@ The image above is a Hubble Space Telescope image of the Star-Forming Region LH 
 
 - **Code to take the assembled dataset and build a RAG chatbot (No memory) utilizing Mixtral-8x7B from NVIDIA (LangChain integration), all-MiniLM-L6-v2, LangChain, and ChromadB:**
   - Notebook and script (`create_cosmo_vectordb.*`) uploaded to `arxiv_project/code`.
+ 
+  <img width="707" alt="Screenshot 2024-04-07 at 12 45 13 PM" src="https://github.com/panchambanerjee/CosmologyAI/assets/17071658/77e42b73-5a50-460c-8f04-3d56fefa3b67">
 
-  ![Screenshot of RAG QA (With and without context)](https://github.com/panchambanerjee/CosmologyAI/assets/17071658/77e42b73-5a50-460c-8f04-3d56fefa3b67)
+  The image above is a screenshot of the Mixtral chatbot (No memory)
 
 - **Using the same tech stack, build a context-based retrieval search:**
   - Notebook and script (`create_cosmo_vectordb.*`) uploaded to `arxiv_project/code`.
