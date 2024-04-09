@@ -52,14 +52,14 @@ The image above is a Hubble Space Telescope image of the Star-Forming Region LH 
 
   The above is a screenshot of the current working version of the astro_v3.. chatbot (Using Streamlit)
 
-- **Initial RAG Evaluate notebook using RAGAS:**
-    - Uploaded synthetic dataset for evaluation to rag_evaluate/ragas_evaluate/data
-    - Uploaded v1 notebook to rag_evaluate/ragas_evaluate/code
-
-### Streamlit Chatbot To-Do:
+  Streamlit Chatbot To-Do:
   - Optimize load-time
   - Add background image
   - Make history display cleaner
+
+- **Initial RAG Evaluate notebook using RAGAS:**
+    - Uploaded synthetic dataset for evaluation to rag_evaluate/ragas_evaluate/data
+    - Uploaded v1 notebook to rag_evaluate/ragas_evaluate/code
 
 ### Next Steps and Ideas
 
