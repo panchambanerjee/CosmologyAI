@@ -64,25 +64,25 @@ The image above is a Hubble Space Telescope image of the Star-Forming Region LH 
 
 
 <details>
-<summary><b>Next Steps and Ideas 💡</b></summary><br>
-- Use Bonito, make instruction-tuned dataset to evaluate RAG application.
-- Evaluate RAG application using RAGAS.
-- Explore alternative ways to evaluate RAG application.
-- Visualize RAG application.
-- Explore fine-tuning an LLM using instruction-tuned dataset.
-- Evaluate fine-tuned LLM vs pre-trained.
-- Explore Advanced RAG (Reranking etc) using both LangChain and LlamaIndex.
-- Explore context evaluation using TruLens.
-- Explore different fine-tuning methods, perhaps DPO if we can build a Cosmology preference dataset.
-- Try DSPy for RAG.
-- Create a proper chatbot with memory.
-- Get the paper text and build datasets with that.
-- Build full applications (RAG, Fine-tuning) based on full paper texts.
-- Build Knowledge Graph RAGs.
-- Auto-detect formulae from papers, convert them to LaTeX, and verify the correctness.
-- Agents.
-- Use AssemblyAI (Or some other tool) to summarize lectures, specifically Cosmology lectures (Leonard Susskind etc): https://www.youtube.com/watch?v=P-medYaqVak&list=PLvh0vlLitZ7c8Avsn6gUaWX05uD5cedO-&ab_channel=Stanford
-- Evaluate RAG for several different methods, Query decomposition, Step-back Prompting, RAG-Fusion etcetera
+<summary><b>Next Steps and Ideas 💡</b></summary>
+* Use Bonito, make instruction-tuned dataset to evaluate RAG application.
+* Evaluate RAG application using RAGAS.
+* Explore alternative ways to evaluate RAG application.
+* Visualize RAG application.
+* Explore fine-tuning an LLM using instruction-tuned dataset.
+* Evaluate fine-tuned LLM vs pre-trained.
+* Explore Advanced RAG (Reranking etc) using both LangChain and LlamaIndex.
+* Explore context evaluation using TruLens.
+* Explore different fine-tuning methods, perhaps DPO if we can build a Cosmology preference dataset.
+* Try DSPy for RAG.
+* Create a proper chatbot with memory.
+* Get the paper text and build datasets with that.
+* Build full applications (RAG, Fine-tuning) based on full paper texts.
+* Build Knowledge Graph RAGs.
+* Auto-detect formulae from papers, convert them to LaTeX, and verify the correctness.
+* Agents.
+* Use AssemblyAI (Or some other tool) to summarize lectures, specifically Cosmology lectures (Leonard Susskind etc): https://www.youtube.com/watch?v=P-medYaqVak&list=PLvh0vlLitZ7c8Avsn6gUaWX05uD5cedO-&ab_channel=Stanford
+* Evaluate RAG for several different methods, Query decomposition, Step-back Prompting, RAG-Fusion etcetera
 
 </details>
 
