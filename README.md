@@ -16,12 +16,17 @@ The image above is a Hubble Space Telescope image of the Star-Forming Region LH 
 
 </details>
 
-- **Build a basic chatbot (No memory) with LangChain and Ollama embeddings, running it locally on a Mac, using Groq for LPU, Gradio for the interface:**
+  <details>
+  
+<summary><b>Build a basic chatbot (No memory) with LangChain and Ollama embeddings, running it locally on a Mac, using Groq for LPU, Gradio for the interface</b></summary>
+
   - Notebook and script (`chatbot_cmb_basic.*`) uploaded to `cmb_rag/code`. Relevant CMB review papers are in `cmb_rag/cmb_data`.
 
   ![Screenshot of RAG QA](https://github.com/panchambanerjee/CosmologyAI/assets/17071658/1af04401-2d21-4cc4-a279-78e00c11566e)
 
   The above is a screenshot of the RAG QA (using Gradio)
+
+</details>
 
 - **Create vectordb and persist it using Chroma and the Cosmology arxiv abstracts (~66k abstracts):**
   - Notebook and script (`create_cosmo_vectordb.*`) uploaded to `arxiv_project/code`.
