@@ -1,4 +1,4 @@
-# CosmologyAI
+# CosmologyAI 🌠
 
 **This repository is a collection of various Data Science, Data Analytics, AI, and LLM-based experiments (RAG, Fine-Tuning) in the Cosmology and Extragalactic Astronomy domain.**
 
