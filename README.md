@@ -16,7 +16,7 @@ The image above is a Hubble Space Telescope image of the Star-Forming Region LH 
 
 </details>
 
-  <details>
+<details>
   
 <summary><b>Build a basic chatbot (No memory) with LangChain and Ollama embeddings, running it locally on a Mac, using Groq for LPU, Gradio for the interface</b></summary>
 
@@ -28,22 +28,37 @@ The image above is a Hubble Space Telescope image of the Star-Forming Region LH 
 
 </details>
 
-- **Create vectordb and persist it using Chroma and the Cosmology arxiv abstracts (~66k abstracts):**
-  - Notebook and script (`create_cosmo_vectordb.*`) uploaded to `arxiv_project/code`.
+<details>
+  
+<summary><b>Create vectordb and persist it using Chroma and the Cosmology arxiv abstracts (~66k abstracts)</b></summary>
 
-- **Code to take the assembled dataset and build a RAG chatbot (No memory) utilizing Mixtral-8x7B from NVIDIA (LangChain integration), all-MiniLM-L6-v2, LangChain, and ChromadB:**
-  - Notebook and script (`create_cosmo_vectordb.*`) uploaded to `arxiv_project/code`.
+- Notebook and script (`create_cosmo_vectordb.*`) uploaded to `arxiv_project/code`.
+
+</details>
+
+<details>
+  
+<summary><b>Code to take the assembled dataset and build a RAG chatbot (No memory) utilizing Mixtral-8x7B from NVIDIA (LangChain integration), all-MiniLM-L6-v2, LangChain, and ChromadB</b></summary>
+
+ - Notebook and script (`create_cosmo_vectordb.*`) uploaded to `arxiv_project/code`.
  
   <img width="707" alt="Screenshot 2024-04-07 at 12 45 13 PM" src="https://github.com/panchambanerjee/CosmologyAI/assets/17071658/77e42b73-5a50-460c-8f04-3d56fefa3b67">
 
   The image above is a screenshot of the Mixtral chatbot (No memory)
 
-- **Using the same tech stack, build a context-based retrieval search:**
-  - Notebook and script (`create_cosmo_vectordb.*`) uploaded to `arxiv_project/code`.
+</details>
+
+<details>
+  
+<summary><b>Using the same tech stack, build a context-based retrieval search</b></summary>
+
+ - Notebook and script (`create_cosmo_vectordb.*`) uploaded to `arxiv_project/code`.
 
   <img width="707" alt="Screenshot 2024-04-07 at 12 45 13 PM" src="https://github.com/panchambanerjee/CosmologyAI/assets/17071658/875520d0-aba8-4116-a620-933b9c8d9df4">
 
   The above is a screenshot of the Semantic search results.
+
+</details>
 
 - **Using Bonito, an A100 GPU on Google Colab, a Dark Matter Review paper, create an Instruction tuning QA dataset:**
   - Notebook and script (`Instruction_Dataset_Synth_bonito_Dark_Matter_Review.ipynb`) uploaded to `miscellaneous/code`. The Dataset is available on HuggingFace Hub: delayedkarma/dark_matter_instruction_qa.
