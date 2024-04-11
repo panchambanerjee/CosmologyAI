@@ -6,10 +6,15 @@
 
 The image above is a Hubble Space Telescope image of the Star-Forming Region LH 95 in the Large Magellanic Cloud.
 
-### So far
+## So far
 
-- **Assemble Cosmology-related abstracts from the ArXiv dataset (Kaggle, Cornell):**
-  - Notebook and script (`get_cosmo_data_from_arxiv.*`) uploaded to `arxiv_project/code`.
+<details>
+  
+<summary><b>Assemble Cosmology-related abstracts from the ArXiv dataset (Kaggle, Cornell)</b></summary>
+
+- Notebook and script (`get_cosmo_data_from_arxiv.*`) uploaded to `arxiv_project/code`.
+
+</details>
 
 - **Build a basic chatbot (No memory) with LangChain and Ollama embeddings, running it locally on a Mac, using Groq for LPU, Gradio for the interface:**
   - Notebook and script (`chatbot_cmb_basic.*`) uploaded to `cmb_rag/code`. Relevant CMB review papers are in `cmb_rag/cmb_data`.
