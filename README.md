@@ -109,10 +109,8 @@ The image above is a Hubble Space Telescope image of the Star-Forming Region LH 
 </details>
  
 
-$${\color{green}Next Steps and Ideas}$$
-
 <details>
-<summary><b>$${\color{green}Next Steps and Ideas}$$</b></summary>
+<summary><b>Next Steps and Ideas</b></summary>
 
 * Use Bonito, make instruction-tuned dataset to evaluate RAG application.
 * Evaluate RAG application using RAGAS.
