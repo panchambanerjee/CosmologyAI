@@ -60,17 +60,32 @@ The image above is a Hubble Space Telescope image of the Star-Forming Region LH 
 
 </details>
 
-- **Using Bonito, an A100 GPU on Google Colab, a Dark Matter Review paper, create an Instruction tuning QA dataset:**
-  - Notebook and script (`Instruction_Dataset_Synth_bonito_Dark_Matter_Review.ipynb`) uploaded to `miscellaneous/code`. The Dataset is available on HuggingFace Hub: delayedkarma/dark_matter_instruction_qa.
+<details>
+  
+<summary><b>Using Bonito, an A100 GPU on Google Colab, a Dark Matter Review paper, create an Instruction tuning QA dataset</b></summary>
+
+ - Notebook and script (`Instruction_Dataset_Synth_bonito_Dark_Matter_Review.ipynb`) uploaded to `miscellaneous/code`. The Dataset is available on HuggingFace Hub: delayedkarma/dark_matter_instruction_qa.
 
   ![Screenshot of Questions and Answers generated](https://github.com/panchambanerjee/CosmologyAI/assets/17071658/a1a113e6-5a81-47c2-8577-6f7b7febf968)
 
-- **LangChain RAG from Scratch (https://github.com/langchain-ai/rag-from-scratch/blob/main/README.md), using ArXiv Cosmology data:**
-  - First notebook (Overview) uploaded to langchain_astro_rag
-  - Second notebook (Multi-Query, RAG-Fusion, Decomposition, Step-back Prompting, HyDE) uploaded to langchain_astro_rag
-  - Third notebook (Logical and Semantic Routing, Query Structuring for Metadata filters) uploaded to langchain_astro_rag
- 
-- **Working RAG based conversatonal chatbots (with memory) using Langchain and Streamlit:**
+  The above is a screenshot of the generated dataset
+
+</details>
+
+<details>
+  
+<summary><b>LangChain RAG from Scratch (https://github.com/langchain-ai/rag-from-scratch/blob/main/README.md), using ArXiv Cosmology data</b></summary>
+
+* First notebook (Overview) uploaded to langchain_astro_rag
+* Second notebook (Multi-Query, RAG-Fusion, Decomposition, Step-back Prompting, HyDE) uploaded to langchain_astro_rag
+* Third notebook (Logical and Semantic Routing, Query Structuring for Metadata filters) uploaded to langchain_astro_rag
+
+</details>
+
+<details>
+  
+<summary><b>Working RAG based conversational chatbots (with memory) using Langchain and Streamlit</b></summary>
+
   - Uploaded v1, v2 and v3 of the scripts to chatbots/code
 
    <img width="707" src="https://github.com/panchambanerjee/CosmologyAI/assets/17071658/a87b86fa-7881-4bfb-af55-917bba11efe0">
@@ -78,14 +93,21 @@ The image above is a Hubble Space Telescope image of the Star-Forming Region LH 
   The above is a screenshot of the current working version of the astro_v3.. chatbot (Using Streamlit)
 
   Streamlit Chatbot To-Do:
-  - Optimize load-time
-  - Add background image
-  - Make history display cleaner
+  * Optimize load-time
+  * Add background image
+  * Make history display cleaner
 
-- **Initial RAG Evaluate notebook using RAGAS:**
-    - Uploaded synthetic dataset for evaluation to rag_evaluate/ragas_evaluate/data
-    - Uploaded v1 notebook to rag_evaluate/ragas_evaluate/code
+</details>
 
+<details>
+  
+<summary><b>Initial RAG Evaluate notebook using RAGAS</b></summary>
+
+* Uploaded synthetic dataset for evaluation to rag_evaluate/ragas_evaluate/data
+*  Uploaded v1 notebook to rag_evaluate/ragas_evaluate/code
+
+</details>
+ 
 
 <details>
 <summary><b>Next Steps and Ideas 💡</b></summary>
