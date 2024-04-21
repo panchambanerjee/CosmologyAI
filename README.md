@@ -104,12 +104,22 @@ The image above is a Hubble Space Telescope image of the Star-Forming Region LH 
 <summary><b>Initial RAG Evaluate notebook using RAGAS</b></summary>
 
 * Uploaded synthetic dataset for evaluation to rag_evaluate/ragas_evaluate/data
-*  Uploaded v1 notebook to rag_evaluate/ragas_evaluate/code
+* Uploaded v1 notebook to rag_evaluate/ragas_evaluate/code
 
 </details>
  
 
 <details>
+
+<summary><b>Download relevant papers from arxiv programmatically</b></summary>
+
+* Uploaded initial notebook to miscellaneous/code/notebooks/download_arxiv_papers.ipynb
+
+</details>
+ 
+
+<details>
+  
 <summary><b>Next Steps and Ideas</b></summary>
 
 * Use Bonito, make instruction-tuned dataset to evaluate RAG application.
